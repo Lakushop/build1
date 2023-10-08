@@ -1,7 +1,7 @@
 /* Fetch Data proposal.json */
 
 // Mendefinisikan URL tempat JSON disimpan
-const jsonUrl = '../json/proposal.json'; // Ganti dengan URL tempat JSON disimpan
+const jsonUrl = 'https://raw.githubusercontent.com/Lakushop/build1/main/json/proposal.json'; // Ganti dengan URL tempat JSON disimpan
 // Mengambil data JSON menggunakan fetch() API
 fetch(jsonUrl)
   .then(response => {
@@ -28,7 +28,7 @@ fetch(jsonUrl)
 /* Fetch Data team.json */
 
  // Import data JSON menggunakan fetch API
-fetch('../json/team.json')
+fetch('https://raw.githubusercontent.com/Lakushop/build1/main/json/team.json')
   .then(response => response.json())
   .then(data => {
     // Menampilkan data JSON di dalam HTML
@@ -62,7 +62,7 @@ fetch('../json/team.json')
 /* Fetch Data contact.json */
 
   // Mengambil data dari JSON menggunakan fetch() API
-fetch('../json/contact.json')
+fetch('https://raw.githubusercontent.com/Lakushop/build1/main/json/contact.json')
   .then(response => response.json())
   .then(data => {
     // Mendapatkan data pengembang front end dan back end
