@@ -1,0 +1,21 @@
+h1 {
+font-weight: bold;
+  font-size: 25px;
+  margin-bottom: 8px;
+  color: white; 
+}
+
+h2 {
+font-weight: bold;
+  font-size: 25px;
+  margin-bottom: 8px;
+  color: black; 
+}
+
+strong {
+  font-weight: bold;
+}
+
+p {
+  margin-bottom: 15px;
+}

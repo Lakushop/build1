@@ -1,0 +1,16 @@
+{
+  "tim": [
+    {
+      "nama": "Megah Juliardi Sondara Wicaksana",
+      "peran": "Back End",
+      "deskripsi": "coba coba backend siapa tau nyaman",
+      "foto": "../gambar/megah.jfif"
+    },
+    {
+      "nama": "Maylinda Christy Yosefina Talan",
+      "peran": "Front End",
+      "deskripsi": "Saya adalah seorang mahasiswa yang sedang belajar mengenai web development",
+      "foto": "../gambar/maylinda.jpeg"
+    }
+  ]
+}
